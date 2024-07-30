@@ -1,0 +1,62 @@
+[
+    {
+        "flight_number": "UA302",
+        "airline": "United Airlines",
+        "origin": "JFK",
+        "destination": "LAX",
+        "scheduled_departure": "2024-08-01T07:00:00Z",
+        "actual_departure": "2024-08-02T07:15:00Z",
+        "scheduled_arrival": "2024-08-01T10:00:00Z",
+        "actual_arrival": "2024-09-01T10:05:00Z",
+        "departure_gate": "2s3",
+        "arrival_gate": "45",
+        "departure_terminal": "45",
+        "arrival_terminal": "7",
+        "status": "Scheduled"
+    },
+    {
+        "flight_number": "AA101",
+        "airline": "American Airlines",
+        "origin": "SFO",
+        "destination": "ORD",
+        "scheduled_departure": "2024-08-01T09:00:00Z",
+        "actual_departure": "2024-08-01T09:10:00Z",
+        "scheduled_arrival": "2024-08-01T13:30:00Z",
+        "actual_arrival": "2024-08-01T13:40:00Z",
+        "departure_gate": "5",
+        "arrival_gate": "12",
+        "departure_terminal": "1",
+        "arrival_terminal": "3",
+        "status": "Delayed"
+    },
+    {
+        "flight_number": "DL408",
+        "airline": "Delta Airlines",
+        "origin": "MIA",
+        "destination": "SEA",
+        "scheduled_departure": "2024-08-01T11:30:00Z",
+        "actual_departure": null,
+        "scheduled_arrival": "2024-08-01T15:00:00Z",
+        "actual_arrival": null,
+        "departure_gate": "33",
+        "arrival_gate": "78",
+        "departure_terminal": "2",
+        "arrival_terminal": "5",
+        "status": "On Time"
+    },
+    {
+        "flight_number": "SW303",
+        "airline": "Southwest Airlines",
+        "origin": "LAS",
+        "destination": "BOS",
+        "scheduled_departure": "2024-08-01T15:45:00Z",
+        "actual_departure": null,
+        "scheduled_arrival": "2024-08-01T22:20:00Z",
+        "actual_arrival": null,
+        "departure_gate": "15",
+        "arrival_gate": "9",
+        "departure_terminal": "1",
+        "arrival_terminal": "4",
+        "status": "Cancelled"
+    }
+]
